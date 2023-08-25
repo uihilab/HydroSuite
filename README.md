@@ -22,7 +22,9 @@ HydroSuite is a compilation of open-source software that encompasses a broad ran
 
 The projects within HydroSuite have been developed using state-of-the-art web technologies designed to foster better integration between client and server-side resources. This highly data and modeling-driven concept facilitates collaboration among diverse entities for the development of new tools and libraries. Furthermore, it expands existing semantics to create a more robust and highly scalable product. HydroSuite is an integral part of a larger ecosystem that incorporates various open-source tools for education, research, and operational purposes.
 
-**Figure Here**
+<p align="center">
+  <img src="https://github.com/uihilab/hydrosuite/blob/main/hydrosuite_arch.png" alt="hydrosuite-arch" width="600" />
+</p>
 
 The purpose of the suite is to democratize the tools created to cater to diverse needs and foster an environment where the tools developed within the scope of HydroSuite can be utilized by a wider public.
 
