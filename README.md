@@ -42,10 +42,10 @@ All the repositories listed below are open source and encourage collaboration by
 |                       | WaterBench               | [uhilab/WaterBench](https://github.com/uihilab/WaterBench)       | Demir et al., 2022 |
 |                       | IowaRain                 | [uihilab/IowaRain](https://github.com/uihilab/IowaRain) | Sit et al., 2021
 | Computing              | HydroLang               | [uihilab/HydroLang](https://github.com/uihilab/HydroLang) |  Erazo Ramirez et al., 2022 
-|                       | HydroLang-ML            | [uihilab/HydroLang-ML](https://github.com/uihilab/HydroLang-ML) | Erazo Ramirez et al., 2023a
-|                       | HydroLang-BMI             | [uihilab/HydroLang-BMI](https://github.com/uihilab/HydroLang/tree/master/hydrolang/bmi-implementation) | Ewing et al., 2022a
-|                       | HydroCompute             | [uihilab/HydroCompute](https://github.com/uihilab/HydroCompute) | Erazo Ramirez et al., 2023b
-|                       | HydroRTC                 | [uihilab/HydroRTC](https://github.com/uihilab/WebRTC/tree/main) | Erazo Ramirez et al., 2023c
+|                       | HydroLang-ML            | [uihilab/HydroLang-ML](https://github.com/uihilab/HydroLang-ML) | Erazo Ramirez et al., 2023
+|                       | HydroLang-BMI             | [uihilab/HydroLang-BMI](https://github.com/uihilab/HydroLang/tree/master/hydrolang/bmi-implementation) | Ewing et al., 2024
+|                       | HydroCompute             | [uihilab/HydroCompute](https://github.com/uihilab/HydroCompute) | Erazo Ramirez et al., 2024a
+|                       | HydroRTC                 | [uihilab/HydroRTC](https://github.com/uihilab/WebRTC/tree/main) | Erazo Ramirez et al., 2024b
 | Communication          | RasterJS                 | [uihilab/RasterJS](https://github.com/uihilab/RasterJS) | Shahid et al., 2023
 |                       | Hydro3DJS                | [uihilab/Hydro3DJS](https://github.com/uihilab/GoogleMapShader) |
 |                       | Instant Expert           | [uihilab/InstantExpert](https://github.com/uihilab/instant-expert) | Sermet & Demir, 2021
@@ -69,13 +69,13 @@ References
 
 * Erazo Ramirez, C., Sermet, Y., Molkenthin, F., & Demir, I. (2022). HydroLang: An open-source web-based programming framework for hydrological sciences. Environmental Modelling & Software, 157, 105525. https://doi.org/10.1016/j.envsoft.2022.105525
 
-* Erazo Ramirez, C., Sermet, Y., & Demir, I. (2023a). HydroLang markup language: Community-driven web components for hydrological analyses. Journal of Hydroinformatics, 25(4), 1171-1187. https://doi.org/10.2166/hydro.2023.149
+* Erazo Ramirez, C., Sermet, Y., & Demir, I. (2023). HydroLang markup language: Community-driven web components for hydrological analyses. Journal of Hydroinformatics, 25(4), 1171-1187. https://doi.org/10.2166/hydro.2023.149
 
-* Erazo Ramirez, C., Sermet, Y., & Demir, I. (2023b). Hydrocompute: An open-source web-based computational library for hydrology and environmental sciences. https://doi.org/10.2139/ssrn.4502402
+* Erazo Ramirez, C., Sermet, Y., & Demir, I. (2024a). HydroCompute: An open-source web-based computational library for hydrology and environmental sciences. Environmental Modelling & Software, 175, 106005. https://doi.org/10.1016/j.envsoft.2024.106005
 
-* Erazo Ramirez, C., Sermet, Y., & Demir, I. (2023c). HydroRTC: A Web-Based Communication Library for Collaborative Data Sharing in the Hydrological Domain. _In preparation_
+* Erazo Ramirez, C., Sermet, M., Shahid, M., & Demir, I. (2024b). HydroRTC: A web-based data transfer and communication library for collaborative data processing and sharing in the hydrological domain. EarthArxiv preprint. https://doi.org/10.31223/x5pq5r
 
-* Ewing, G., Erazo Ramirez, C., Vaidya, A., & Demir, I. (2022a). Client-side web-based model coupling using basic model interface for hydrology and water resources. https://doi.org/10.31223/x5xp93
+* Ewing, G., Erazo Ramirez, C., Vaidya, A., & Demir, I. (2024). Client-side web-based model coupling using basic model interface for hydrology and water resources. Journal of Hydroinformatics, 26(2), 494-502. https://doi.org/10.2166/hydro.2024.212
 
 * Ewing, G., Mantilla, R., Krajewski, W., & Demir, I. (2022b). Interactive hydrological modelling and simulation on client-side web systems: An educational case study. Journal of Hydroinformatics, 24(6), 1194-1206. https://doi.org/10.2166/hydro.2022.061
 
