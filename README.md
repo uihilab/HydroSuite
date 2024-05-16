@@ -73,7 +73,7 @@ References
 
 * Erazo Ramirez, C., Sermet, Y., & Demir, I. (2024a). HydroCompute: An open-source web-based computational library for hydrology and environmental sciences. Environmental Modelling & Software, 175, 106005. https://doi.org/10.1016/j.envsoft.2024.106005
 
-* Erazo Ramirez, C., Sermet, M., Shahid, M., & Demir, I. (2024b). HydroRTC: A web-based data transfer and communication library for collaborative data processing and sharing in the hydrological domain. EarthArxiv preprint. https://doi.org/10.31223/x5pq5r
+* Erazo Ramirez, C., Sermet, M., Shahid, M., & Demir, I. (2024b). HydroRTC: A web-based data transfer and communication library for collaborative data processing and sharing in the hydrological domain. Environmental Modelling & Software, 106068. https://doi.org/10.1016/j.envsoft.2024.106068
 
 * Ewing, G., Erazo Ramirez, C., Vaidya, A., & Demir, I. (2024). Client-side web-based model coupling using basic model interface for hydrology and water resources. Journal of Hydroinformatics, 26(2), 494-502. https://doi.org/10.2166/hydro.2024.212
 

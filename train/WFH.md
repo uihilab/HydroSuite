@@ -1,7 +1,7 @@
 # Hydroinformatics Training - WaterSoftHack 2024
 
 
-This repository serves as a landing page introduction of HydroSuite: A collection of web-based software for the development and analysis of hydrologic workflows.These libraries can be used for:
+This repository serves as a landing page and introduction of HydroSuite: A collection of web-based software for the development and analysis of hydrologic workflows designed by the Hydroinformatics Lab at the University of Iowa. These libraries can be used for:
 
 * Development of web applications.
 * In-browser fast analysis.
@@ -13,7 +13,7 @@ The libraries that are shown throughout this material aim to highlight the use o
 
 HydroSuite addresses the needs of hydrological sciences by providing state-of-the-art tools developed using web environments, web applications, and data sources, thereby creating a comprehensive application space. It consists of the following libraries:
 
-|Library Repository|Overview|Uses|
+|Library|Overview|Functions|
 |-------|--------|-----|
 |[HydroLang](https://github.com/uihilab/HydroLang)|Library for data acquisition, analysis, and visualization directly on the client side.|Data, Analysis, Visualization|
 |[HydroCompute](https://github.com/uihilab/HydroCompute)|Library for high performance execution of functions and workflows on the client side.|Analysis|
@@ -49,6 +49,10 @@ Each training module contains multiple examples showcasing the use of each libra
 The highlighted libraries represent a subset of a larger collection of tools and acquisition systems designed to address various water-related challenges. Users and trainees are encouraged to utilize the tools they are already comfortable with for the development of case studies and projects, but encouraged to leverage the tools in this workshop as part of their web application understanding.
 
 These tools have been created to enhance and strengthen existing robust libraries, contributing to the development of a more comprehensive and resilient workflows.
+
+## Acknowledgements
+This project is developed by the University of Iowa Hydroinformatics Lab (UIHILab):
+https://hydroinformatics.uiowa.edu
 
 
 ## References
